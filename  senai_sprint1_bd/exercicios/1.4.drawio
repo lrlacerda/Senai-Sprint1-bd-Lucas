@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T12:54:20.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="UE1wcZ45G9UIttR6E6zY" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T20:26:06.082Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Vszzrlv-e89jw03lBHAr" version="21.6.5" type="github">
   <diagram name="Página-1" id="-KBPSxF1nXoSBBwAwEgY">
-    <mxGraphModel dx="1050" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,9 +120,6 @@
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6NC1EyGUp6P7OQOIqoNv-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" parent="6NC1EyGUp6P7OQOIqoNv-2" source="6NC1EyGUp6P7OQOIqoNv-3" target="6NC1EyGUp6P7OQOIqoNv-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="6NC1EyGUp6P7OQOIqoNv-43" value="Estilo" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" parent="6NC1EyGUp6P7OQOIqoNv-2" vertex="1">
           <mxGeometry x="430" y="240" width="180" height="150" as="geometry" />
         </mxCell>
@@ -233,34 +230,8 @@
             <mxRectangle width="150" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6NC1EyGUp6P7OQOIqoNv-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.429;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="6NC1EyGUp6P7OQOIqoNv-2" source="6NC1EyGUp6P7OQOIqoNv-43" target="6NC1EyGUp6P7OQOIqoNv-56" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6NC1EyGUp6P7OQOIqoNv-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.127;entryDx=0;entryDy=0;entryPerimeter=0;" parent="6NC1EyGUp6P7OQOIqoNv-2" source="6NC1EyGUp6P7OQOIqoNv-33" target="6NC1EyGUp6P7OQOIqoNv-43" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="320" y="440" />
-              <mxPoint x="320" y="259" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6NC1EyGUp6P7OQOIqoNv-71" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="6NC1EyGUp6P7OQOIqoNv-2" vertex="1">
-          <mxGeometry x="90" y="200" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="6NC1EyGUp6P7OQOIqoNv-72" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="6NC1EyGUp6P7OQOIqoNv-2" vertex="1">
           <mxGeometry x="90" y="370" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6NC1EyGUp6P7OQOIqoNv-73" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="6NC1EyGUp6P7OQOIqoNv-2" vertex="1">
-          <mxGeometry x="360" y="230" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6NC1EyGUp6P7OQOIqoNv-74" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="6NC1EyGUp6P7OQOIqoNv-2" vertex="1">
-          <mxGeometry x="90" y="320" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6NC1EyGUp6P7OQOIqoNv-75" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="6NC1EyGUp6P7OQOIqoNv-2" vertex="1">
-          <mxGeometry x="520" y="390" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6NC1EyGUp6P7OQOIqoNv-76" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="6NC1EyGUp6P7OQOIqoNv-2" vertex="1">
-          <mxGeometry x="520" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6NC1EyGUp6P7OQOIqoNv-29" value="Album" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" parent="6NC1EyGUp6P7OQOIqoNv-2" vertex="1">
           <mxGeometry y="360" width="210" height="240" as="geometry" />
@@ -317,117 +288,114 @@
             <mxRectangle width="150" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6NC1EyGUp6P7OQOIqoNv-153" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="6NC1EyGUp6P7OQOIqoNv-2" vertex="1">
-          <mxGeometry x="210" y="410" width="60" height="30" as="geometry" />
+        <mxCell id="6NC1EyGUp6P7OQOIqoNv-154" value="&lt;h1&gt;-- Tabela de artistas&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;CREATE TABLE artistas (&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; id SERIAL PRIMARY KEY,&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; nome VARCHAR(100)&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;);&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;-- Tabela de estilos&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;CREATE TABLE estilos (&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; id SERIAL PRIMARY KEY,&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; nome VARCHAR(100)&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;);&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;-- Tabela de usuários&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;CREATE TABLE usuarios (&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; id SERIAL PRIMARY KEY,&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; nome VARCHAR(100),&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; email VARCHAR(100),&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; senha VARCHAR(100),&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; permissao VARCHAR(20)&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;);&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;-- Tabela de álbuns&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;CREATE TABLE albuns (&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; id SERIAL PRIMARY KEY,&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; titulo VARCHAR(200),&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; data_lancamento DATE,&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; localizacao VARCHAR(100),&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; minutos INTEGER,&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; ativo BOOLEAN,&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; artista_id INT REFERENCES artistas(id)&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;);&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;-- Tabela de estilos dos álbuns (relacionamento muitos-para-muitos)&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;CREATE TABLE albuns_estilos (&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; album_id INT REFERENCES albuns(id),&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; estilo_id INT REFERENCES estilos(id),&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; PRIMARY KEY (album_id, estilo_id)&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;);&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div&gt;SELECT id, nome, email, permissao&lt;/div&gt;&lt;div&gt;FROM usuarios&lt;/div&gt;&lt;div&gt;WHERE permissao = &#39;administrador&#39;;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div&gt;SELECT *&lt;/div&gt;&lt;div&gt;FROM albuns&lt;/div&gt;&lt;div&gt;WHERE data_lancamento &amp;gt; &#39;YYYY-01-01&#39;;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div&gt;SELECT *&lt;/div&gt;&lt;div&gt;FROM usuarios&lt;/div&gt;&lt;div&gt;WHERE email = &#39;email_desejado&#39; AND senha = &#39;senha_desejada&#39;;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div&gt;SELECT a.titulo, ar.nome AS nome_artista, string_agg(e.nome, &#39;, &#39;) AS estilos&lt;/div&gt;&lt;div&gt;FROM albuns AS a&lt;/div&gt;&lt;div&gt;JOIN artistas AS ar ON a.artista_id = ar.id&lt;/div&gt;&lt;div&gt;LEFT JOIN albuns_estilos AS ae ON a.id = ae.album_id&lt;/div&gt;&lt;div&gt;LEFT JOIN estilos AS e ON ae.estilo_id = e.id&lt;/div&gt;&lt;div&gt;WHERE a.ativo = TRUE&lt;/div&gt;&lt;div&gt;GROUP BY a.titulo, ar.nome;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1980" width="760" height="2670" as="geometry" />
         </mxCell>
-        <mxCell id="6NC1EyGUp6P7OQOIqoNv-154" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Listar todos os usuários administradores, sem exibir suas senhas:&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div&gt;&lt;b&gt;SELECT Nome, Email, Permissão&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;FROM Usuário&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;WHERE Permissão = &#39;administrador&#39;;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Listar todos os álbuns lançados após um determinado ano de lançamento:&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;SELECT Título, DataLançamento&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;FROM Álbum&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;WHERE DataLançamento &amp;gt; &#39;2022-01-01&#39;;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px; font-weight: bold;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px; font-weight: bold;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px; font-weight: bold;&quot;&gt;Listar os dados de um usuário através do e-mail e senha:&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px; font-weight: bold;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px; font-weight: bold;&quot;&gt;&lt;div&gt;SELECT *&lt;/div&gt;&lt;div&gt;FROM Usuário&lt;/div&gt;&lt;div&gt;WHERE Email = &#39;exemplo@email.com&#39; AND Senha = &#39;senha&#39;;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px; font-weight: bold;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px; font-weight: bold;&quot;&gt;Listar todos os álbuns ativos, mostrando o nome do artista e os estilos do álbum:&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px; font-weight: bold;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px; font-weight: bold;&quot;&gt;&lt;div&gt;SELECT a.Título AS TítuloÁlbum, r.Nome AS NomeArtista, e.Nome AS NomeEstilo&lt;/div&gt;&lt;div&gt;FROM Álbum a&lt;/div&gt;&lt;div&gt;INNER JOIN Artista r ON a.Artista_ID = r.ID&lt;/div&gt;&lt;div&gt;INNER JOIN ÁlbumEstilo ae ON a.ID = ae.Álbum_ID&lt;/div&gt;&lt;div&gt;INNER JOIN Estilo e ON ae.Estilo_ID = e.ID&lt;/div&gt;&lt;div&gt;WHERE a.Ativo = true;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="1980" width="760" height="580" as="geometry" />
-        </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iwtlez6Rob24M-q-51iH-1" target="iwtlez6Rob24M-q-51iH-6">
+        <mxCell id="iwtlez6Rob24M-q-51iH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iwtlez6Rob24M-q-51iH-1" target="iwtlez6Rob24M-q-51iH-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iwtlez6Rob24M-q-51iH-1" target="iwtlez6Rob24M-q-51iH-5">
+        <mxCell id="iwtlez6Rob24M-q-51iH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iwtlez6Rob24M-q-51iH-1" target="iwtlez6Rob24M-q-51iH-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iwtlez6Rob24M-q-51iH-1" target="iwtlez6Rob24M-q-51iH-4">
+        <mxCell id="iwtlez6Rob24M-q-51iH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iwtlez6Rob24M-q-51iH-1" target="iwtlez6Rob24M-q-51iH-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iwtlez6Rob24M-q-51iH-1" target="iwtlez6Rob24M-q-51iH-3">
+        <mxCell id="iwtlez6Rob24M-q-51iH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iwtlez6Rob24M-q-51iH-1" target="iwtlez6Rob24M-q-51iH-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iwtlez6Rob24M-q-51iH-1" target="iwtlez6Rob24M-q-51iH-11">
+        <mxCell id="iwtlez6Rob24M-q-51iH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="iwtlez6Rob24M-q-51iH-1" target="iwtlez6Rob24M-q-51iH-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-1" value="Usuario" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-1" value="Usuario" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-2" value="Artista" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-2" value="Artista" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-3" value="Permissão" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-3" value="Permissão" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="780" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-4" value="Senha" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-4" value="Senha" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="720" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-5" value="Email" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-5" value="Email" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="660" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-6" value="Nome" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-6" value="Nome" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="600" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iwtlez6Rob24M-q-51iH-11" target="iwtlez6Rob24M-q-51iH-17">
+        <mxCell id="iwtlez6Rob24M-q-51iH-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iwtlez6Rob24M-q-51iH-11" target="iwtlez6Rob24M-q-51iH-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iwtlez6Rob24M-q-51iH-11" target="iwtlez6Rob24M-q-51iH-22">
+        <mxCell id="iwtlez6Rob24M-q-51iH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="iwtlez6Rob24M-q-51iH-11" target="iwtlez6Rob24M-q-51iH-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-11" value="Album" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-11" value="Album" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-13" value="Possui" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-13" value="Possui" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="720" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iwtlez6Rob24M-q-51iH-14" target="iwtlez6Rob24M-q-51iH-18">
+        <mxCell id="iwtlez6Rob24M-q-51iH-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iwtlez6Rob24M-q-51iH-14" target="iwtlez6Rob24M-q-51iH-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-14" value="Nome" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-14" value="Nome" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="65" y="1000" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-15" value="Nome" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-15" value="Nome" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="65" y="1070" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iwtlez6Rob24M-q-51iH-16">
+        <mxCell id="iwtlez6Rob24M-q-51iH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iwtlez6Rob24M-q-51iH-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="1055" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-16" value="Nome" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-16" value="Nome" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="1030" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-17" value="Nome" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-17" value="Nome" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="65" y="940" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-18" value="Nome" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-18" value="Nome" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="65" y="1130" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iwtlez6Rob24M-q-51iH-22" target="iwtlez6Rob24M-q-51iH-26">
+        <mxCell id="iwtlez6Rob24M-q-51iH-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iwtlez6Rob24M-q-51iH-22" target="iwtlez6Rob24M-q-51iH-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iwtlez6Rob24M-q-51iH-22" target="iwtlez6Rob24M-q-51iH-32">
+        <mxCell id="iwtlez6Rob24M-q-51iH-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="iwtlez6Rob24M-q-51iH-22" target="iwtlez6Rob24M-q-51iH-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-22" value="Estilo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-22" value="Estilo" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-24" value="Possui" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-24" value="Possui" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="840" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-26" value="Nome" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-26" value="Nome" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="950" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-28" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-28" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="660" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-29" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-29" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="820" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-30" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-30" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="850" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-31" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-31" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="850" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-32" value="Album Estilo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-32" value="Album Estilo" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-34" value="Possui" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-34" value="Possui" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="840" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-35" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-35" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="850" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iwtlez6Rob24M-q-51iH-36" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="iwtlez6Rob24M-q-51iH-36" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="850" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
