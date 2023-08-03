@@ -92,7 +92,7 @@ VALUES
     ('Frajola', '2020-02-15', 4, 2),
     ('Luna', '2018-11-20', 3, 1);
 
--- Inserindo registros de atendimento (Você pode ajustar as datas conforme necessário)
+-- Inserindo registros de atendimento 
 INSERT INTO atendimentos (veterinario_id, pet_id, consulta_descricao, data_consulta) 
 VALUES
     (1, 1, 'Consulta de rotina. Pet saudável.', '2023-07-10'),
@@ -101,29 +101,58 @@ VALUES
 
 
 
-SELECT v.nome, v.crmv
-FROM veterinarios AS v
-JOIN atendimentos AS a ON v.id = a.veterinario_id
-JOIN pets AS p ON a.pet_id = p.id
-JOIN donos AS d ON p.dono_id = d.id
-JOIN clinicas AS c ON c.id = 1; -- Use o ID da clínica desejada aqui
-
-
 SELECT raca
 FROM racas
 WHERE raca LIKE 'S%';
 
 
+SELECT v.nome, v.crmv
+FROM veterinarios AS v
+JOIN atendimentos AS a ON v.IdVeterinario = a.veterinario_id
+JOIN pets AS p ON a.pet_id = p.IdPet
+JOIN donos AS d ON p.dono_id = d.IdDonos
+JOIN clinicas AS c ON c.IdClinica = 1;
+
+SELECT raca
+FROM racas
+WHERE raca LIKE 'S%';
+
 SELECT p.nome AS nome_pet, d.nome AS nome_dono
 FROM pets AS p
-JOIN donos AS d ON p.dono_id = d.id;
-
+JOIN donos AS d ON p.dono_id = d.IdDonos;
 
 SELECT v.nome AS nome_veterinario, p.nome AS nome_pet, r.raca, tp.tipo, d.nome AS nome_dono, c.razao_social
 FROM atendimentos AS a
-JOIN veterinarios AS v ON a.veterinario_id = v.id
-JOIN pets AS p ON a.pet_id = p.id
-JOIN racas AS r ON p.raca_id = r.id
-JOIN tipos_pet AS tp ON r.tipo_pet_id = tp.id
-JOIN donos AS d ON p.dono_id = d.id
-JOIN clinicas AS c ON c.id = 1; -- Use o ID da clínica desejada aqui
+JOIN veterinarios AS v ON a.veterinario_id = v.IdVeterinario
+JOIN pets AS p ON a.pet_id = p.IdPet
+JOIN racas AS r ON p.raca_id = r.IdRacas
+JOIN tipos_pet AS tp ON r.tipo_pet_id = tp.IdTipoPet
+JOIN donos AS d ON p.dono_id = d.IdDonos
+JOIN clinicas AS c ON c.IdClinica = 1;
+
+SELECT v.nome, v.crmv
+FROM veterinarios AS v
+LEFT JOIN atendimentos AS a ON v.IdVeterinario = a.veterinario_id
+LEFT JOIN pets AS p ON a.pet_id = p.IdPet
+LEFT JOIN donos AS d ON p.dono_id = d.IdDonos
+JOIN clinicas AS c ON c.IdClinica = 1;
+
+SELECT r.raca
+FROM racas AS r
+RIGHT JOIN tipos_pet AS tp ON r.tipo_pet_id = tp.IdTipoPet
+WHERE r.raca LIKE 'S%';
+
+SELECT p.nome AS nome_pet, d.nome AS nome_dono
+FROM pets AS p
+LEFT JOIN donos AS d ON p.dono_id = d.IdDonos;
+
+SELECT v.nome AS nome_veterinario, p.nome AS nome_pet, r.raca, tp.tipo, d.nome AS nome_dono, c.razao_social
+FROM atendimentos AS a
+RIGHT JOIN veterinarios AS v ON a.veterinario_id = v.IdVeterinario
+RIGHT JOIN pets AS p ON a.pet_id = p.IdPet
+RIGHT JOIN racas AS r ON p.raca_id = r.IdRacas
+RIGHT JOIN tipos_pet AS tp ON r.tipo_pet_id = tp.IdTipoPet
+RIGHT JOIN donos AS d ON p.dono_id = d.IdDonos
+RIGHT JOIN clinicas AS c ON c.IdClinica = 1;
+
+
